@@ -7,7 +7,9 @@ A real-time computer vision system that recognizes hand signs inspired by Jujuts
 ---
 
 ## Demo
-(need to add gif soon)
+Hand gestures trigger real-time browser animations. The silent clip includes bright visual effects.
+
+[Watch the demo (MP4)](docs/demo/ryoiki-tenkai-demo.mp4)
 
 
 ---
